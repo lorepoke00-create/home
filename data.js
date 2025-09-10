@@ -7,13 +7,7 @@ const portfolioData = {
     currentPosition: "Agent non titulaire de recherche et d'enseignement",
     institution: "Laboratoire de Physique Théorique et Modélisation, Cy Cergy-Paris Université",
     period: "2022-2026",
-    email: "lorenzo.fratino@gmail.com",
     institutionalEmail: "lorenzo.fratino@u-cergy.fr",
-    address: "10 Rue Lauzin, 75019, Paris, France",
-    phone: "+33(0)771240725",
-    birthDate: "17 Août 1987",
-    birthPlace: "Lucca (LU), Italie",
-    nationality: "Italienne"
   },
 
   researchAreas: [
