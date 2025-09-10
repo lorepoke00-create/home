@@ -7,7 +7,7 @@ const portfolioData = {
     currentPosition: "Agent non titulaire de recherche et d'enseignement",
     institution: "Laboratoire de Physique Théorique et Modélisation, Cy Cergy-Paris Université",
     period: "2022-2026",
-    email: "lorenzo.fratino@u-cergy.fr",
+    institutionalEmail: "lorenzo.fratino at u-cergy.fr"
   },
 
   researchAreas: [
